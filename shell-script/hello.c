@@ -2,7 +2,7 @@
 
 int main(void)
 {
- printf("hello world! by stonewill.\n");
+ printf("hello world\n");
 
  return 0;
 }
